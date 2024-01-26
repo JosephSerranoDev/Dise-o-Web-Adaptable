@@ -1,6 +1,6 @@
-<H1>Diseño Web Aadptable</H1>
+<H1><strong></STRONG>Diseño Web Aadptable<strong></strong></H1>
 
 <ul>
-  <p>Crea un formulario de encuesta.</p><br>
-  <p>Crea una página de tributo</p><br>
+  <p>Crea un formulario de encuesta.</p>
+  <p>Crea una página de tributo</p>
 </ul>
